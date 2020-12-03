@@ -26,7 +26,7 @@ import org.apache.lucene.search.BooleanClause;
 public class Query1{
 
 	// the location of the search index
-	private static String INDEX_DIRECTORY = "D:\\MICHAELMANS SEMESTER (1)\\Modules\\Information retrieval and web search\\Assignments\\Index";
+	private static String INDEX_DIRECTORY = "LuceneDemo1/Index";
 	
 	// Limit the number of search results we get
 	private static int MAX_RESULTS = 1400;
