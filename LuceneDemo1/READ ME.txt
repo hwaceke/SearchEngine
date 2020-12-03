@@ -1,0 +1,6 @@
+1. Open the SearchEngine repository
+2. Open the LuceneDemo1 folder
+3. Open src/lucene
+4. Run Documents.java
+5. Run Index.java
+6. Run QueryIndex.java
