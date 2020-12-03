@@ -25,9 +25,9 @@ import org.apache.lucene.store.FSDirectory;
  
 public class Documents{
 	// Directory where the search index will be saved
-	private static String INDEX_DIRECTORY = "D:\\MICHAELMANS SEMESTER (1)\\Modules\\Information retrieval and web search\\Assignments\\Index";
+	private static String INDEX_DIRECTORY = "LuceneDemo1/Index";
 	// Location of the data to be searched
-	private static String filePath = "D:\\MICHAELMANS SEMESTER (1)\\Information retrieval and web search\\Assignments\\Data/cran.all.1400";
+	private static String filePath = "LuceneDemo1/Data/cran.all.1400";
 	
 	public static void main(String[] args) throws IOException
 	{
