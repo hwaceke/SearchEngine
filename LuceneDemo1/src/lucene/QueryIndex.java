@@ -64,13 +64,13 @@ public class QueryIndex
 {
 
     // the location of the search index
-    private static String INDEX_DIRECTORY = "D:\\MICHAELMANS SEMESTER (1)\\Modules\\Information retrieval and web search\\Assignments\\Index";
+    private static String INDEX_DIRECTORY = "LuceneDemo1/Index";
 
     //Queries file path
-    private static String qryPath = "D:\\MICHAELMANS SEMESTER (1)\\Modules\\Information retrieval and web search\\Assignments\\Data\\cran.qry";
+    private static String qryPath = "LuceneDemo1/Data/cran.qry";
 
     //Output result
-    private static String outputResultsPath = "D:\\MICHAELMANS SEMESTER (1)\\Modules\\Information retrieval and web search\\Assignments\\Outputs";
+    private static String outputResultsPath = "LuceneDemo1/Outputs";
 
     // Limit the number of search results we get
     private static int MAX_RESULTS = 1400;
