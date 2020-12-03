@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lucene-8.6.3/lucene-8.6.3/demo/lucene-demo-8.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lucene-8.6.3/lucene-8.6.3/core/lucene-core-8.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lucene-8.6.3/lucene-8.6.3/queryparser/lucene-queryparser-8.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/lucene-8.6.3/lucene-8.6.3/analysis/common/lucene-analyzers-common-8.6.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
