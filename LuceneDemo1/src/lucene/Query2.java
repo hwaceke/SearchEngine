@@ -40,7 +40,7 @@ import org.apache.lucene.search.DocIdSetIterator;
 public class Query2{
     
     // Directory where the search index will be saved
-    private static String INDEX_DIRECTORY = "D:\\MICHAELMANS SEMESTER (1)\\Modules\\Information retrieval and web search\\Assignments\\Index";
+    private static String INDEX_DIRECTORY = "LuceneDemo1/Index";
 
     private Analyzer analyzer;
     private Directory directory;
